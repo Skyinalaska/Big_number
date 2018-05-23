@@ -1,0 +1,10 @@
+﻿  big_number.cpp
+c:\users\sky\source\repos\big_number\big_number\big_number.cpp(230): warning C4244: =: преобразование "d_base" в "base", возможна потеря данных
+c:\users\sky\source\repos\big_number\big_number\big_number.cpp(423): warning C4244: аргумент: преобразование "d_base" в "base", возможна потеря данных
+c:\users\sky\source\repos\big_number\big_number\big_number.cpp(488): warning C4244: =: преобразование "d_base" в "base", возможна потеря данных
+c:\users\sky\source\repos\big_number\big_number\big_number.cpp(498): warning C4244: =: преобразование "d_base" в "base", возможна потеря данных
+c:\users\sky\source\repos\big_number\big_number\big_number.cpp(509): warning C4244: =: преобразование "d_base" в "base", возможна потеря данных
+c:\users\sky\source\repos\big_number\big_number\big_number.cpp(583): warning C4244: =: преобразование "d_base" в "base", возможна потеря данных
+c:\users\sky\source\repos\big_number\big_number\big_number.cpp(588): warning C4244: =: преобразование "d_base" в "base", возможна потеря данных
+c:\users\sky\source\repos\big_number\big_number\big_number.cpp(631): warning C4244: =: преобразование "d_base" в "base", возможна потеря данных
+  Big_number.vcxproj -> C:\Users\Sky\source\repos\Big_number\Debug\Big_number.exe
